@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "watch": "jest --watchAll --verbose=true"
+    "watch": "jest --watchAll --verbose=true",
+    "start": "node src/index.js"
   },
   "author": "Lucas Bertoldo",
   "license": "ISC",
