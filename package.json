@@ -1,7 +1,7 @@
 {
-  "name": "ptrack",
+  "name": "node-eslint-airbnb-boilerplate",
   "version": "1.0.0",
-  "description": "",
+  "description": "Boilerplate to Node projects using AirBnb style guide + Prettier",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
